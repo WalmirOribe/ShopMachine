@@ -1,0 +1,2 @@
+# ShopMachine
+Compras fáceis
